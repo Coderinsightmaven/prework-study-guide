@@ -2,16 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-  My motivation was to be ready and organized for my upcoming bootcamp!
-- Why did you build this project?
-  I built this project to organize my notes from the prework-study-guide!
-- What problem does it solve?
-  This project solves the problem of having to lookup things on google by having everything organized in one place.
-- What did you learn?
-  In this project I learned HTML, CSS, and the basics of javascript.
+This web app is used to keep track of my HTML, CSS, Javascript notes while following along with the bootcamp prework-study-guide
 
 ## Installation
 
@@ -21,7 +12,7 @@ N/A
 
 ## Usage
 
-For the usage of this web app you can use it to keep track of four different topics as well as see a list of topics in the DevTools Console every time you refresh the page.
+The usage of the prework-study-guide you can use it to look at notes for HTML, CSS, and Javascript you can also look in the console to get a random selection of what to study on next.
 
 ## Credits
 
